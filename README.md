@@ -1,2 +1,2 @@
 # PizzeriaDB
-This is a Sample Backend Database Design of a pizza Store
+This is a Sample Backend Database Design and implementation of a pizza Store
