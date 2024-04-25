@@ -17,7 +17,7 @@ public class DBConnector {
     // enter your user name here
     protected static String user = "root";
     // enter your password here
-    protected static String password = "SIVAsai123*";
+    protected static String password = "Enter your password here";
     // enter your database name here
     private static String database_name = "PIZZERIA";
     // Do not change the port. 3306 is the default MySQL port
